@@ -100,3 +100,11 @@ function App() {
 }
 
 export default App
+kibuntyou/
+├── README.mdpackage.json
+vite.config.js
+/src
+  └── App.jsx
+  └── main.jsx
+/public
+  └── index.html
